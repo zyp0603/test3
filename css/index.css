@@ -1,0 +1,62 @@
+
+body{
+    background: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 100vh;
+}
+
+.logo{
+    position: absolute;
+    top: 0.18rem;
+    left: 0.15rem;
+    width: 1.17rem;
+}
+
+.text{
+    height: 40vh;
+    background: url(../img/text.png);
+    background-repeat: no-repeat;
+    background-size: 80vw;
+    background-position: center center;
+}
+
+.swiper-container {
+    width: 100vw;
+    height: 50vh;
+}
+
+.swiper-slide{
+    border-radius: 30px;
+    background: white;
+}
+
+.title{
+    font-size: 0.36rem;
+    height: 1.1rem;
+}
+
+.erweima{
+    height: 3.35rem;
+    width: 3.35rem;
+}
+
+.text2{
+    height: 1.56rem;
+}
+
+.text3{
+    font-size: 0.34rem;
+}
+
+.blue{
+    color: #188fe3;
+    font-size: 0.34rem;
+}
+
+.gray{
+    color: #999999;
+    font-size: 0.3rem;
+}
+
